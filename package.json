@@ -1,0 +1,14 @@
+{
+  "name": "posmotri-v-okno-fd",
+  "version": "1.0.0",
+  "description": "\"Проект готов к сдаче\"\r Kasimov Artur\r https://github.com/LiLArchy/posmotri-v-okno-fd.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "posmotri-v-okno-fd": "file:"
+  }
+}
