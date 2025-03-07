@@ -63,10 +63,6 @@ ol {
   align-items: end;
 }
 
-.result {
-  min-height: 456px;
-}
-
 .result__video-container {
   position: relative;
   width: 711px;
@@ -163,6 +159,7 @@ label:has(:focus-visible) {
 
 .search-form__submit-button {
   width: 194px;
+  margin-top: 20px;
 }
 
 .more-button {
